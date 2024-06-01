@@ -1,7 +1,7 @@
 
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![logo](https://github.com/kamal9580/kamal9580/blob/main/281486b8-097d-4fdb-a4a5-92fc485f920c.png)
 <h1 align="center">Hi 👋, I'm Nilesh kumar kamal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
