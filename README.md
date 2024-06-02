@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/kamal9580/kamal9580/blob/main/281486b8-097d-4fdb-a4a5-92fc485f920c.png)
 <h1 align="center">Hi 👋, I'm Nilesh kumar kamal</h1>
-<h3 align="center">A passionate backend developer and DSA</h3>
+<h3 align="center">A passionate backend developer and DSA enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/nileshkamal9693](https://linktr.ee/nileshkamal9693)
 
-- 💬 Ask me about **MERN and Flutter**
+- 💬 Ask me about **MERN ,Flutter and DSA**
 
 - 📫 How to reach me **nileshkumarkamal@gmail.com**
 
-- ⚡ Fun fact **I think i am funny😅**
+- ⚡ Fun fact **I think i am funny and good in sports like cricket,badminton,volleyball😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
