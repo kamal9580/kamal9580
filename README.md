@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently gaining experience **in Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/nileshkamal9693](https://bento.me/nileshkumarkamal)
+- 👨‍💻 All of my projects are available at [https://bento.me/nileshkumarkamal](https://bento.me/nileshkumarkamal)
 
 - 💬 Ask me about **MERN ,Flutter and DSA**
 
