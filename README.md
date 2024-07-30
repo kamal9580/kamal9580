@@ -14,13 +14,10 @@
 
 - 💬 Ask me about **MERN , Next.js,Typescript**
 
-- 📫 How to reach me
+- 📫 How to reach me :-
 - [https://bento.me/nileshkumarkamal](https://bento.me/nileshkumarkamal)
-- [https://bento.me/nileshkumarkamal](https://bento.me/nileshkumarkamal)
+- [https://kamal-portfolio-delta.vercel.app/](https://kamal-portfolio-delta.vercel.app/)
   
-  
- 
-
 - ⚡ Fun fact **I think i am funny and good in sports like cricket,badminton,volleyball😅**
 
 <h3 align="left">Connect with me:</h3>
