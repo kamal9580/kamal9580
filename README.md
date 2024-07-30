@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal9580&label=Profile%20views&color=0e75b6&style=flat" alt="kamal9580" /> </p>
 
-- 🌱 I’m currently gaining experience **in Data structure and algorithim**
+- 🌱 I’m currently gaining experience **in Data structures and algorithims**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kamal9580?tab=repositories](https://github.com/kamal9580?tab=repositories)
 
