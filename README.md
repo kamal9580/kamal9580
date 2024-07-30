@@ -14,8 +14,12 @@
 
 - 💬 Ask me about **MERN , Next.js,Typescript**
 
-- 📫 How to reach me  [https://github.com/kamal9580?tab=repositories](https://github.com/kamal9580?tab=repositories)
- **nileshkumarkamal@gmail.com**
+- 📫 How to reach me
+- [https://bento.me/nileshkumarkamal](https://bento.me/nileshkumarkamal)
+- [https://bento.me/nileshkumarkamal](https://bento.me/nileshkumarkamal)
+  
+  
+ 
 
 - ⚡ Fun fact **I think i am funny and good in sports like cricket,badminton,volleyball😅**
 
