@@ -1,20 +1,21 @@
 
 ![logo](https://github.com/kamal9580/kamal9580/blob/main/281486b8-097d-4fdb-a4a5-92fc485f920c.png)
-<h1 align="center">Hi 👋, I'm Nilesh kumar kamal</h1>
+<h1 align="center">Hi 👋, I'm Nilesh kumar kamal Great to see you.....</h1>
 
-<h3 align="center">A passionate MERN developer and DSA enthusiast</h3>
+<h3 align="center">Hi! I'm Nilesh Kumar Kamal, a Software Engineer interest in Competitive Programming and a final year undergraduate at Indian Institute of Information Technology, Ranchi. My passion extends to Full Stack development, where I've crafted impactful MERN projects and contibuted to the Open Source.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamal9580&label=Profile%20views&color=0e75b6&style=flat" alt="kamal9580" /> </p>
 
-- 🌱 I’m currently gaining experience **in Full stack development**
+- 🌱 I’m currently gaining experience **in Data structure and algorithim**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/nileshkumarkamal](https://bento.me/nileshkumarkamal)
+- 👨‍💻 All of my projects are available at [https://github.com/kamal9580?tab=repositories](https://github.com/kamal9580?tab=repositories)
 
-- 💬 Ask me about **MERN ,Flutter and DSA**
+- 💬 Ask me about **MERN , Next.js,Typescript**
 
-- 📫 How to reach me **nileshkumarkamal@gmail.com**
+- 📫 How to reach me  [https://github.com/kamal9580?tab=repositories](https://github.com/kamal9580?tab=repositories)
+ **nileshkumarkamal@gmail.com**
 
 - ⚡ Fun fact **I think i am funny and good in sports like cricket,badminton,volleyball😅**
 
